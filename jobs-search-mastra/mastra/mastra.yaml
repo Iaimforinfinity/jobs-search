@@ -1,0 +1,3 @@
+name: jobs-search
+description: AI agent that finds and applies to jobs using the Google Jobs API and a stored resume.
+version: 0.1
